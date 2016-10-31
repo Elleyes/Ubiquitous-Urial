@@ -4,10 +4,10 @@ ALGORITHMS AND JS STACK FROM SCRATCH Foundational Project with Elle and Harman
 
 ## Resources
 
-[Frontend Masters](https://frontendmasters.com/courses/computer-science/)
-[JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
-[Freecode Camp](https://www.freecodecamp.com/map-aside#nested-collapseBasicAlgorithmScripting)
-[Teamtreehouse User Authentication With Express and Mongo](https://teamtreehouse.com/library/user-authentication-with-express-and-mongo)
+- [Frontend Masters](https://frontendmasters.com/courses/computer-science/)
+- [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
+- [Freecode Camp](https://www.freecodecamp.com/map-aside#nested-collapseBasicAlgorithmScripting)
+- [Teamtreehouse User Authentication With Express and Mongo](https://teamtreehouse.com/library/user-authentication-with-express-and-mongo)
 
 
 ### Basic Algorithm Scripting #86
