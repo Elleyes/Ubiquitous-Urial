@@ -6,6 +6,7 @@ ALGORITHMS AND JS STACK FROM SCRATCH Foundational Project with Elle and Harman
 
 - [Frontend Masters](https://frontendmasters.com/courses/computer-science/)
 - [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
+- [Hellemans JS Scratchy Stacky](https://github.com/harmanlearns/js-scratchy-stacky/blob/master/README.md)
 - [Freecode Camp](https://www.freecodecamp.com/map-aside#nested-collapseBasicAlgorithmScripting)
 - [Teamtreehouse User Authentication With Express and Mongo](https://teamtreehouse.com/library/user-authentication-with-express-and-mongo)
 
